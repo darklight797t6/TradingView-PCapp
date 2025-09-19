@@ -29,17 +29,7 @@ Access realtime market prices and indicator values from TradingView!
 - Machine learning research
 - Free replay mode on certain timeframes, subject to limitations
 
-___
 
-▌Installation
-
-Stable version:
-
-npm i @mathieuc/tradingview
-
-Last version:
-
-npm i github:Mathieu2301/TradingView-API
 
 ▌Examples
 
